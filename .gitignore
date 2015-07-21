@@ -55,3 +55,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+*stations.tsv
+*usage_2012.tsv
+*daily_weather.tsv
